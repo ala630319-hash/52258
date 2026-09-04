@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة الأقساط",
+  "description": "نظام مالي وإداري متكامل لإدارة خطط التقسيط، العملاء، المتاجر، الأقساط، وسندات القبض بدقة مالية متناهية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
